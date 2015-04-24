@@ -4,7 +4,7 @@
 
 <Parameters>
   <Parameter name="name"><![CDATA[Toner]]></Parameter>
-  <Parameter name="attribution"><![CDATA[Tiles by Stamen Design, under CC-BY 3.0. Data © OpenStreetMap contributors, under ODbL.]]></Parameter>
+  <Parameter name="attribution"><![CDATA[Style based on Toner-liter by Stamen Design, released under CC-BY 3.0. Modified by Journalism++. Data © OpenStreetMap contributors, under ODbL.]]></Parameter>
   <Parameter name="center">0,0,2</Parameter>
   <Parameter name="format">png</Parameter>
   <Parameter name="minzoom">0</Parameter>
