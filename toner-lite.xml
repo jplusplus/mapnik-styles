@@ -86,7 +86,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/osmdata/land-polygons]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/osm/land-polygons]]></Parameter>
     </Datasource>
   </Layer>
 
