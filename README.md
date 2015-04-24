@@ -5,7 +5,10 @@ Mapnik can be used to create static maps, or tiles for slippy maps. These styles
 
 The repo comes with some complimentary shapefiles, some of which have unclear licences, and with some default J++ server setups. The repo is therefore private.
 
-## OSM Bright
+##Styles
+Each style consists of a OSM XML file that may reference images in the `patterns` and `symbols` folders, shapefiles in the `shapes` folder, and tables in the PostGIS database. 
+
+### OSM Bright
 This is our clone of [mapbox/osm-bright](https://github.com/mapbox/osm-bright), a great general purpose map.
 
 Use `osm2pgsql` to populate a PostGIS database called `gis`, and you are good to go. Try it with Nik4:
@@ -13,7 +16,7 @@ Use `osm2pgsql` to populate a PostGIS database called `gis`, and you are good to
     nik4.py  -b 12.54 56.6 13.6 56.8 --size-px 800 400 osm-bright.xml test.png
 
 
-##Toner Light
+###Toner Light
 This is our clone of the [Stamen Toner](https://github.com/stamen/toner-carto) variety *Toner Light*, for when you want the data to speak, and the map to shut up.
 
 Use `imposm3` to populate a PostGIS database called `imposm`, run the [modified High Road SQL script](https://github.com/stamen/toner-carto/blob/master/sql/functions/highroad.sql), and you are good to go. Try it with Nik4:
