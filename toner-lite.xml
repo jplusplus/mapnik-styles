@@ -110,7 +110,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/nullisland.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/nullisland]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7131,7 +7131,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z4.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z4]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7150,7 +7150,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z5.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z5]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7169,7 +7169,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z6.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z6]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7188,7 +7188,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z7.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z7]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7207,7 +7207,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z8.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z8]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7303,7 +7303,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/labels_admin/admin_0_countries_110m-points.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin_0_countries_110m-points]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7322,7 +7322,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-0-labels-z4.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z4]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7341,7 +7341,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-0-labels-z5.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z5]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7360,7 +7360,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-0-labels-z6.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z6]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7379,7 +7379,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-1-labels-z4.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-1-labels-z4]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7398,7 +7398,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-1-labels-z5.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-1-labels-z5]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7417,7 +7417,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-1-labels-z6.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-1-labels-z6]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7436,7 +7436,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/labels_admin/admin-1-labels-z7.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-1-labels-z7]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7533,7 +7533,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z4.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z4]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7630,7 +7630,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z5.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z5]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7727,7 +7727,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z6.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z6]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7795,7 +7795,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z7.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z7]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7863,7 +7863,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z8.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_labels_z8]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7886,7 +7886,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z9.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z9]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7909,7 +7909,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[merged_labels/merged_points_z10.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[merged_labels/merged_points_z10]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -10186,7 +10186,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/continents_900913.shp]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/continents_900913]]></Parameter>
     </Datasource>
   </Layer>
 
