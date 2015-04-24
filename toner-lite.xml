@@ -1309,7 +1309,7 @@
   SELECT
     geometry,
     name
-  FROM admin
+  FROM osm_admin
   WHERE geometry && !bbox!
     AND type = 'administrative'
   ) AS _
@@ -1371,7 +1371,7 @@
     type,
     geometry,
     area
-  FROM green_areas
+  FROM osm_green_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1498,7 +1498,7 @@
     type,
     geometry,
     area
-  FROM green_areas_z13
+  FROM osm_green_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1541,7 +1541,7 @@
     type,
     geometry,
     area
-  FROM green_areas_z10
+  FROM osm_green_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1600,7 +1600,7 @@
     type,
     geometry,
     area
-  FROM water_areas
+  FROM osm_water_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1719,7 +1719,7 @@
     type,
     geometry,
     area
-  FROM water_areas_z13
+  FROM osm_water_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1838,7 +1838,7 @@
     type,
     geometry,
     area
-  FROM water_areas_z10
+  FROM osm_water_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -6949,7 +6949,7 @@
     type,
     geometry,
     area
-  FROM buildings
+  FROM osm_buildings
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -6985,7 +6985,7 @@
     type,
     geometry,
     area
-  FROM buildings_z13
+  FROM osm_buildings_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -7108,7 +7108,7 @@
     name,
     type,
     geometry
-  FROM aeroways
+  FROM osm_aeroways
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8148,7 +8148,7 @@
     type,
     geometry,
     area
-  FROM water_areas
+  FROM osm_water_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8392,7 +8392,7 @@
     type,
     geometry,
     area
-  FROM water_areas_z13
+  FROM osm_water_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8636,7 +8636,7 @@
     type,
     geometry,
     area
-  FROM water_areas_z10
+  FROM osm_water_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9080,7 +9080,7 @@
     type,
     geometry,
     area
-  FROM green_areas
+  FROM osm_green_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9318,7 +9318,7 @@
     type,
     geometry,
     area
-  FROM green_areas_z13
+  FROM osm_green_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9556,7 +9556,7 @@
     type,
     geometry,
     area
-  FROM green_areas_z10
+  FROM osm_green_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -10063,7 +10063,7 @@
           ELSE 'no' END) AS is_tunnel,
     (CASE WHEN bridge = 1 THEN 'yes'
           ELSE 'no' END) AS is_bridge
- FROM roads
+ FROM osm_roads
  WHERE highway IN ('secondary', 'trunk', 'trunk_link', 'primary', 'primary_link', 'motorway', 'motorway_link')
  ORDER BY priority ASC, length DESC)
  AS _
@@ -10126,7 +10126,7 @@
               ELSE 'no' END) AS is_tunnel,
         (CASE WHEN bridge = 1 THEN 'yes'
               ELSE 'no' END) AS is_bridge
- FROM roads
+ FROM osm_roads
  WHERE highway IN ('residential', 'unclassified', 'service', 'minor', 'road', 'tertiary')
  ORDER BY priority ASC, length DESC)
  AS _
@@ -10161,7 +10161,7 @@
         railway,
         highway,
         'M' as label
- FROM stations
+ FROM osm_stations
  WHERE railway IN ('station') OR highway IN ('bus_stop'))
  AS _
 ]]></Parameter>
