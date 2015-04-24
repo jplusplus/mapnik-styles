@@ -7221,14 +7221,14 @@
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <MarkersSymbolizer width="18" file="images/airplane.svg" />
+    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" dy="14" allow-overlap="true" ><![CDATA['Seattle-'+[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <MarkersSymbolizer width="18" file="images/airplane.svg" />
+    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
@@ -7245,14 +7245,14 @@
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12)</Filter>
-    <MarkersSymbolizer width="18" file="images/airplane.svg" />
+    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" dy="14" allow-overlap="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12)</Filter>
-    <MarkersSymbolizer width="18" file="images/airplane.svg" />
+    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
@@ -7263,7 +7263,7 @@
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
-    <MarkersSymbolizer width="18" file="images/airplane.svg" />
+    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
@@ -10139,7 +10139,7 @@
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <Filter>([railway] = 'station')</Filter>
-    <ShieldSymbolizer face-name="Arial Unicode MS Bold" fill="#ffffff" size="12" file="images/subway_shield_small.svg" ><![CDATA[[label]]]></ShieldSymbolizer>
+    <ShieldSymbolizer face-name="Arial Unicode MS Bold" fill="#ffffff" size="12" file="symbols/toner-subway_shield_small.svg" ><![CDATA[[label]]]></ShieldSymbolizer>
   </Rule>
 </Style>
 <Layer name="poi_station_labels"
