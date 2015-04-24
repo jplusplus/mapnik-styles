@@ -1296,7 +1296,7 @@
     <StyleName>admin1-lines-osm</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1356,7 +1356,7 @@
     <StyleName>green-areas-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1483,7 +1483,7 @@
     <StyleName>green-areas-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1526,7 +1526,7 @@
     <StyleName>green-areas-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1585,7 +1585,7 @@
     <StyleName>water-bodies-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1704,7 +1704,7 @@
     <StyleName>water-bodies-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1823,7 +1823,7 @@
     <StyleName>water-bodies-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -3284,7 +3284,7 @@
     <StyleName>tunnels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -4715,7 +4715,7 @@
     <StyleName>roads</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -5137,7 +5137,7 @@
     <StyleName>roads_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -5481,7 +5481,7 @@
     <StyleName>highways_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6233,7 +6233,7 @@
     <StyleName>bridges</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6933,7 +6933,7 @@
     <StyleName>buildings-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6970,7 +6970,7 @@
     <StyleName>buildings-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -7094,7 +7094,7 @@
     <StyleName>aeroways</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8133,7 +8133,7 @@
     <StyleName>water-bodies-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8377,7 +8377,7 @@
     <StyleName>water-bodies-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8621,7 +8621,7 @@
     <StyleName>water-bodies-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9065,7 +9065,7 @@
     <StyleName>green-areas-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9303,7 +9303,7 @@
     <StyleName>green-areas-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9541,7 +9541,7 @@
     <StyleName>green-areas-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10023,7 +10023,7 @@
     <StyleName>major_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10097,7 +10097,7 @@
     <StyleName>minor_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10147,7 +10147,7 @@
     <StyleName>poi_station_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
