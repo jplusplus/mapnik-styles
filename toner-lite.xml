@@ -1296,7 +1296,7 @@
     <StyleName>admin1-lines-osm</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1309,7 +1309,7 @@
   SELECT
     geometry,
     name
-  FROM osm_admin
+  FROM admin
   WHERE geometry && !bbox!
     AND type = 'administrative'
   ) AS _
@@ -1356,7 +1356,7 @@
     <StyleName>green-areas-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1371,7 +1371,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas
+  FROM green_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1483,7 +1483,7 @@
     <StyleName>green-areas-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1498,7 +1498,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas_z13
+  FROM green_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1526,7 +1526,7 @@
     <StyleName>green-areas-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1541,7 +1541,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas_z10
+  FROM green_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1585,7 +1585,7 @@
     <StyleName>water-bodies-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1600,7 +1600,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas
+  FROM water_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1704,7 +1704,7 @@
     <StyleName>water-bodies-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1719,7 +1719,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas_z13
+  FROM water_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -1823,7 +1823,7 @@
     <StyleName>water-bodies-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -1838,7 +1838,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas_z10
+  FROM water_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -3284,7 +3284,7 @@
     <StyleName>tunnels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -4715,7 +4715,7 @@
     <StyleName>roads</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -5137,7 +5137,7 @@
     <StyleName>roads_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -5481,7 +5481,7 @@
     <StyleName>highways_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6233,7 +6233,7 @@
     <StyleName>bridges</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6933,7 +6933,7 @@
     <StyleName>buildings-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6949,7 +6949,7 @@
     type,
     geometry,
     area
-  FROM osm_buildings
+  FROM buildings
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -6970,7 +6970,7 @@
     <StyleName>buildings-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -6985,7 +6985,7 @@
     type,
     geometry,
     area
-  FROM osm_buildings_z13
+  FROM buildings_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -7094,7 +7094,7 @@
     <StyleName>aeroways</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -7108,7 +7108,7 @@
     name,
     type,
     geometry
-  FROM osm_aeroways
+  FROM aeroways
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8133,7 +8133,7 @@
     <StyleName>water-bodies-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8148,7 +8148,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas
+  FROM water_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8377,7 +8377,7 @@
     <StyleName>water-bodies-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8392,7 +8392,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas_z13
+  FROM water_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -8621,7 +8621,7 @@
     <StyleName>water-bodies-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -8636,7 +8636,7 @@
     type,
     geometry,
     area
-  FROM osm_water_areas_z10
+  FROM water_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9065,7 +9065,7 @@
     <StyleName>green-areas-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9080,7 +9080,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas
+  FROM green_areas
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9303,7 +9303,7 @@
     <StyleName>green-areas-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9318,7 +9318,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas_z13
+  FROM green_areas_z13
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -9541,7 +9541,7 @@
     <StyleName>green-areas-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -9556,7 +9556,7 @@
     type,
     geometry,
     area
-  FROM osm_green_areas_z10
+  FROM green_areas_z10
   WHERE geometry && !bbox!
 ) AS _
 ]]></Parameter>
@@ -10023,7 +10023,7 @@
     <StyleName>major_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10063,7 +10063,7 @@
           ELSE 'no' END) AS is_tunnel,
     (CASE WHEN bridge = 1 THEN 'yes'
           ELSE 'no' END) AS is_bridge
- FROM osm_roads
+ FROM roads
  WHERE highway IN ('secondary', 'trunk', 'trunk_link', 'primary', 'primary_link', 'motorway', 'motorway_link')
  ORDER BY priority ASC, length DESC)
  AS _
@@ -10097,7 +10097,7 @@
     <StyleName>minor_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10126,7 +10126,7 @@
               ELSE 'no' END) AS is_tunnel,
         (CASE WHEN bridge = 1 THEN 'yes'
               ELSE 'no' END) AS is_bridge
- FROM osm_roads
+ FROM roads
  WHERE highway IN ('residential', 'unclassified', 'service', 'minor', 'road', 'tertiary')
  ORDER BY priority ASC, length DESC)
  AS _
@@ -10147,7 +10147,7 @@
     <StyleName>poi_station_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
        <Parameter name="host"><![CDATA[localhost]]></Parameter>
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
@@ -10161,7 +10161,7 @@
         railway,
         highway,
         'M' as label
- FROM osm_stations
+ FROM stations
  WHERE railway IN ('station') OR highway IN ('bus_stop'))
  AS _
 ]]></Parameter>
