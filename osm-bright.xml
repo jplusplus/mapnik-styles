@@ -969,7 +969,6 @@
   WHERE boundary = 'administrative'
     AND admin_level IN ('2','3','4')
 ) AS data]]></Parameter>
-       <Parameter name="type"><![CDATA[postgis]]></Parameter>
     </Datasource>
   </Layer>
 
