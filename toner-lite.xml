@@ -7213,30 +7213,6 @@
 <Style name="airports" filter-mode="first">
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
-    <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <TextSymbolizer dy="0" face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" allow-overlap="true" ><![CDATA['Seattle-'+[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>100000</MaxScaleDenominator>
-    <MinScaleDenominator>50000</MinScaleDenominator>
-    <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
-    <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" dy="14" allow-overlap="true" ><![CDATA['Seattle-'+[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>750000</MaxScaleDenominator>
-    <MinScaleDenominator>100000</MinScaleDenominator>
-    <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
-    <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>750000</MinScaleDenominator>
-    <Filter>([scalerank] &lt;= 12) and ([name] = 'Tacoma Int&apos;l')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000</MaxScaleDenominator>
     <Filter>([scalerank] &lt;= 12)</Filter>
     <TextSymbolizer dy="0" face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" allow-overlap="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
