@@ -28,7 +28,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_land-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_land.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -48,7 +48,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_admin_0_countries_lakes-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_countries_lakes.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -68,7 +68,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_admin_0_countries_lakes-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_countries_lakes.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -656,7 +656,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_admin_0_boundary_lines_map_units-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_map_units.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -675,7 +675,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_admin_1_states_provinces_lines-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_1_states_provinces_lines.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1221,7 +1221,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_admin_1_states_provinces_lines-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_1_states_provinces_lines.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1241,7 +1241,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_admin_0_boundary_lines_land-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_boundary_lines_land.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1281,7 +1281,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_admin_0_boundary_lines_land-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_land.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1296,11 +1296,11 @@
     <StyleName>admin1-lines-osm</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1357,11 +1357,11 @@
     <StyleName>green-areas-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1484,11 +1484,11 @@
     <StyleName>green-areas-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1527,11 +1527,11 @@
     <StyleName>green-areas-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1586,11 +1586,11 @@
     <StyleName>water-bodies-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1705,11 +1705,11 @@
     <StyleName>water-bodies-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1824,11 +1824,11 @@
     <StyleName>water-bodies-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -1981,7 +1981,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_lakes-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_lakes.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2001,7 +2001,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_lakes-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_lakes.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2447,7 +2447,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_roads-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_roads.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -3285,11 +3285,11 @@
     <StyleName>tunnels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -4716,11 +4716,11 @@
     <StyleName>roads</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -5138,11 +5138,11 @@
     <StyleName>roads_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -5482,11 +5482,11 @@
     <StyleName>highways_med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -6234,11 +6234,11 @@
     <StyleName>bridges</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -6934,11 +6934,11 @@
     <StyleName>buildings-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -6971,11 +6971,11 @@
     <StyleName>buildings-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -7095,11 +7095,11 @@
     <StyleName>aeroways</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -7279,7 +7279,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_airports-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_airports.zip]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -8134,11 +8134,11 @@
     <StyleName>water-bodies-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -8378,11 +8378,11 @@
     <StyleName>water-bodies-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -8622,11 +8622,11 @@
     <StyleName>water-bodies-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -8692,7 +8692,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_110m_geography_marine_polys-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_110m_geography_marine_polys.zip]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8805,7 +8805,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_50m_geography_marine_polys-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_geography_marine_polys.zip]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8846,7 +8846,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/natural_earth/ne_10m_geography_marine_polys-merc.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_geography_marine_polys.zip]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -9066,11 +9066,11 @@
     <StyleName>green-areas-labels-high</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -9304,11 +9304,11 @@
     <StyleName>green-areas-labels-med</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -9542,11 +9542,11 @@
     <StyleName>green-areas-labels-low</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -10024,11 +10024,11 @@
     <StyleName>major_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -10098,11 +10098,11 @@
     <StyleName>minor_road_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
@@ -10148,11 +10148,11 @@
     <StyleName>poi_station_labels</StyleName>
     <Datasource>
        <Parameter name="type"><![CDATA[postgis]]></Parameter>
-       <Parameter name="dbname"><![CDATA[]]></Parameter>
-       <Parameter name="host"><![CDATA[]]></Parameter>
-       <Parameter name="user"><![CDATA[]]></Parameter>
-       <Parameter name="password"><![CDATA[]]></Parameter>
-       <Parameter name="port"><![CDATA[]]></Parameter>
+       <Parameter name="dbname"><![CDATA[gis]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
        <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
