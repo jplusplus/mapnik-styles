@@ -1318,32 +1318,32 @@
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 10000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-high"
@@ -1379,97 +1379,97 @@
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 200000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 200000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 500000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 500000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 75000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 500000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 500000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 75000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-med"
@@ -1506,13 +1506,13 @@
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="images/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="images/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-low"
@@ -6251,7 +6251,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6259,7 +6259,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6267,7 +6267,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6275,21 +6275,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6297,7 +6297,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6305,7 +6305,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6313,14 +6313,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6328,7 +6328,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6336,7 +6336,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6350,7 +6350,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6358,7 +6358,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6372,7 +6372,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6386,7 +6386,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6394,7 +6394,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6402,7 +6402,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6410,21 +6410,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6432,7 +6432,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6440,7 +6440,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6448,14 +6448,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6463,7 +6463,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6471,7 +6471,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6485,7 +6485,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6493,7 +6493,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6507,7 +6507,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6521,7 +6521,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6529,7 +6529,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6537,7 +6537,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6545,21 +6545,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6567,7 +6567,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6575,7 +6575,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6583,14 +6583,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6598,7 +6598,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6606,7 +6606,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6620,7 +6620,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6628,7 +6628,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6642,7 +6642,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6656,7 +6656,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6664,7 +6664,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6672,7 +6672,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6680,21 +6680,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6702,7 +6702,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6710,7 +6710,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6718,14 +6718,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6733,7 +6733,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6741,7 +6741,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6755,7 +6755,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6763,7 +6763,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6777,7 +6777,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6792,7 +6792,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6800,7 +6800,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6808,7 +6808,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6816,13 +6816,13 @@
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6830,7 +6830,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6838,7 +6838,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6846,7 +6846,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6854,14 +6854,14 @@
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6869,7 +6869,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6877,7 +6877,7 @@
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -6891,14 +6891,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6912,7 +6912,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no')</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="images/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6955,7 +6955,7 @@
 <Style name="buildings-med" filter-mode="first">
   <Rule>
     <Filter>([type] != 'no')</Filter>
-    <PolygonPatternSymbolizer file="images/stripe_sm.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="patterns/stripe_sm.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
 </Style>
