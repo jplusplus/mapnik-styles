@@ -26,4 +26,10 @@ Here is an `imposm3` example:
 
     export PGPASSWORD ubuntu
     psql -h localhost -d imposm -U ubuntu -p 5432 -f sql/highroad.sql -a
-    
+
+
+##Setting up the server
+To fetch all OSM data and extract it while downloading (quickest):
+
+    wget -O - ftp://ftp5.gwdg.de/pub/misc/openstreetmap/planet.openstreetmap.org/planet/planet-latest.osm.bz2 | bzcat >planet_latest.osm
+
