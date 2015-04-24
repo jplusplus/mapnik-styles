@@ -28,7 +28,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_land.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -48,7 +48,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_countries_lakes.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_countries_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -68,7 +68,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_countries_lakes.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_countries_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -86,7 +86,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shp/osmdata/land-polygons-complete-3857.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shp/osmdata/land-polygons-complete-3857]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -656,7 +656,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_map_units.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_map_units]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -675,7 +675,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_1_states_provinces_lines.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_1_states_provinces_lines]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1221,7 +1221,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_1_states_provinces_lines.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_1_states_provinces_lines]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1241,7 +1241,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_boundary_lines_land.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_boundary_lines_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1281,7 +1281,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_land.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1981,7 +1981,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_lakes.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2001,7 +2001,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_lakes.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2447,7 +2447,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_roads.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_roads]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7279,7 +7279,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_airports.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_airports]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -8692,7 +8692,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_110m_geography_marine_polys.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_110m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8805,7 +8805,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_geography_marine_polys.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8846,7 +8846,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_geography_marine_polys.zip]]></Parameter>
+       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
