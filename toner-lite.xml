@@ -1301,15 +1301,19 @@
        <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
        <Parameter name="port"><![CDATA[5432]]></Parameter>
-       <Parameter name="geometry_field"><![CDATA[way]]></Parameter>
+       <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
        <Parameter name="srid"><![CDATA[3857]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="table"><![CDATA[( SELECT way, admin_level
-  FROM planet_osm_line
-  WHERE boundary = 'administrative'
-    AND admin_level = '4'
-) AS data]]></Parameter>
+       <Parameter name="table"><![CDATA[(
+  SELECT
+    geometry,
+    name
+  FROM osm_admin
+  WHERE geometry && !bbox!
+    AND type = 'administrative'
+  ) AS _
+    ]]></Parameter>
     </Datasource>
   </Layer>
 
