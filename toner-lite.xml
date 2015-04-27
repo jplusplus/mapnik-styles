@@ -1287,6 +1287,10 @@
 
 <Style name="admin1-lines-osm" filter-mode="first">
   <Rule>
+    <Filter>([admin_level] = 4)</Filter>
+    <LineSymbolizer stroke-width="2" stroke="#f5f500" stroke-dasharray="1, 5" stroke-linecap="round" />
+  </Rule>
+  <Rule>
     <LineSymbolizer stroke-width="2" stroke="#8c8c8c" stroke-dasharray="1, 5" stroke-linecap="round" />
   </Rule>
 </Style>
