@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Map[]>
-<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over" background-color="#d9d9d9" font-directory="fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over" background-color="#d9d9d9" font-directory="/home/ubuntu/mapnik-styles/fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
 
 <Parameters>
   <Parameter name="name"><![CDATA[Toner]]></Parameter>
@@ -28,7 +28,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_land]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -48,7 +48,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_countries_lakes]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_admin_0_countries_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -68,7 +68,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_countries_lakes]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_admin_0_countries_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -86,7 +86,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/osm/land_polygons]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/osm/land_polygons]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -110,7 +110,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/nullisland]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/nullisland]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -656,7 +656,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_map_units]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_admin_0_boundary_lines_map_units]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -675,7 +675,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_1_states_provinces_lines]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_admin_1_states_provinces_lines]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1221,7 +1221,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_1_states_provinces_lines]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_admin_1_states_provinces_lines]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1241,7 +1241,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_admin_0_boundary_lines_land]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_admin_0_boundary_lines_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1281,7 +1281,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_admin_0_boundary_lines_land]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_admin_0_boundary_lines_land]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -1322,32 +1322,32 @@
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 10000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-high"
@@ -1383,97 +1383,97 @@
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 200000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 200000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 500000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 500000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 75000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 1000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 500000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 500000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 75000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-med"
@@ -1510,13 +1510,13 @@
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000) and ([type] = 'nature_reserve')</Filter>
-    <PolygonPatternSymbolizer file="patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/halftone2-transparent.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="patterns/halftone2.png" />
+    <PolygonPatternSymbolizer opacity="0.15" alignment="global" file="/home/ubuntu/mapnik-styles/patterns/halftone2.png" />
   </Rule>
 </Style>
 <Layer name="green-areas-low"
@@ -1980,7 +1980,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_lakes]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2000,7 +2000,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_lakes]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_lakes]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -2446,7 +2446,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_roads]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_roads]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -6255,7 +6255,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6263,7 +6263,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6271,7 +6271,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6279,21 +6279,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6301,7 +6301,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6309,7 +6309,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6317,14 +6317,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6332,7 +6332,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6340,7 +6340,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6354,7 +6354,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6362,7 +6362,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6376,7 +6376,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 291796473)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6390,7 +6390,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6398,7 +6398,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6406,7 +6406,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6414,21 +6414,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6436,7 +6436,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6444,7 +6444,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6452,14 +6452,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6467,7 +6467,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6475,7 +6475,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6489,7 +6489,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6497,7 +6497,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6511,7 +6511,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 224030635)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6525,7 +6525,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6533,7 +6533,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6541,7 +6541,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6549,21 +6549,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6571,7 +6571,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6579,7 +6579,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6587,14 +6587,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6602,7 +6602,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6610,7 +6610,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6624,7 +6624,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6632,7 +6632,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6646,7 +6646,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 260351411)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6660,7 +6660,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6668,7 +6668,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6676,7 +6676,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6684,21 +6684,21 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6706,7 +6706,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6714,7 +6714,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6722,14 +6722,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6737,7 +6737,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6745,7 +6745,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6759,7 +6759,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6767,7 +6767,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467) and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6781,7 +6781,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([osm_id] = 248153467)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe_color.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_color.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="1.5" stroke="#ffffff" />
   </Rule>
   <Rule>
@@ -6796,7 +6796,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6804,7 +6804,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6812,7 +6812,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6820,13 +6820,13 @@
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 5000)</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_med.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_med.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6834,7 +6834,7 @@
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6842,7 +6842,7 @@
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6850,7 +6850,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6858,14 +6858,14 @@
     <Filter>([type] != 'no') and ([area] &gt;= 3000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6873,7 +6873,7 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6881,7 +6881,7 @@
     <Filter>([type] != 'no') and ([area] &gt;= 2000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -6895,14 +6895,14 @@
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no') and ([area] &gt;= 1000)</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6916,7 +6916,7 @@
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([type] != 'no')</Filter>
     <PolygonSymbolizer fill="#ffffff" />
-    <PolygonPatternSymbolizer file="patterns/stripe.png" opacity="0.15" alignment="global" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe.png" opacity="0.15" alignment="global" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
   <Rule>
@@ -6959,7 +6959,7 @@
 <Style name="buildings-med" filter-mode="first">
   <Rule>
     <Filter>([type] != 'no')</Filter>
-    <PolygonPatternSymbolizer file="patterns/stripe_sm.png" opacity="0.15" />
+    <PolygonPatternSymbolizer file="/home/ubuntu/mapnik-styles/patterns/stripe_sm.png" opacity="0.15" />
     <LineSymbolizer stroke-width="0.5" stroke="#d9d9d9" />
   </Rule>
 </Style>
@@ -7115,101 +7115,6 @@
     </Datasource>
   </Layer>
 
-<Style name="city_points_z4" filter-mode="first">
-  <Rule>
-    <MarkersSymbolizer ignore-placement="true" width="7" fill="#000000" stroke="#ffffff" stroke-width="2" />
-  </Rule>
-</Style>
-<Layer name="city_points_z4"
-  maxzoom="50000000"
-  minzoom="25000000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_points_z4</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z4]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_points_z5" filter-mode="first">
-  <Rule>
-    <MarkersSymbolizer ignore-placement="true" width="7" fill="#000000" stroke="#ffffff" stroke-width="2" />
-  </Rule>
-</Style>
-<Layer name="city_points_z5"
-  maxzoom="25000000"
-  minzoom="12500000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_points_z5</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z5]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_points_z6" filter-mode="first">
-  <Rule>
-    <MarkersSymbolizer ignore-placement="true" width="7" fill="#000000" stroke="#ffffff" stroke-width="2" />
-  </Rule>
-</Style>
-<Layer name="city_points_z6"
-  maxzoom="12500000"
-  minzoom="6500000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_points_z6</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z6]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_points_z7" filter-mode="first">
-  <Rule>
-    <MarkersSymbolizer ignore-placement="true" width="7" fill="#000000" stroke="#ffffff" stroke-width="2" />
-  </Rule>
-</Style>
-<Layer name="city_points_z7"
-  maxzoom="6500000"
-  minzoom="3000000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_points_z7</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z7]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_points_z8" filter-mode="first">
-  <Rule>
-    <MarkersSymbolizer ignore-placement="true" width="7" fill="#000000" stroke="#ffffff" stroke-width="2" />
-  </Rule>
-</Style>
-<Layer name="city_points_z8"
-  maxzoom="3000000"
-  minzoom="1500000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_points_z8</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z8]]></Parameter>
-    </Datasource>
-  </Layer>
-
 <Style name="airports" filter-mode="first">
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
@@ -7220,14 +7125,14 @@
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12)</Filter>
-    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
+    <MarkersSymbolizer width="18" file="/home/ubuntu/mapnik-styles/symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#000000" size="14" halo-fill="#ffffff" halo-radius="2" wrap-width="128" dy="14" allow-overlap="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([scalerank] &lt;= 12)</Filter>
-    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
+    <MarkersSymbolizer width="18" file="/home/ubuntu/mapnik-styles/symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
@@ -7238,7 +7143,7 @@
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
-    <MarkersSymbolizer width="18" file="symbols/toner-airplane.svg" />
+    <MarkersSymbolizer width="18" file="/home/ubuntu/mapnik-styles/symbols/toner-airplane.svg" />
     <TextSymbolizer face-name="Arial Unicode MS Italic" fill="#ff0000" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
@@ -7254,7 +7159,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_airports]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_airports]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7278,7 +7183,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/labels_admin/admin_0_countries_110m-points]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/labels_admin/admin_0_countries_110m-points]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7297,7 +7202,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z4]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/labels_admin/admin-0-labels-z4]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7316,7 +7221,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z5]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/labels_admin/admin-0-labels-z5]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -7335,482 +7240,337 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/labels_admin/admin-0-labels-z6]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/labels_admin/admin-0-labels-z6]]></Parameter>
     </Datasource>
   </Layer>
 
-<Style name="city_labels_z4" filter-mode="first">
+<Style name="place-small" filter-mode="first">
   <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16)</Filter>
-    <TextSymbolizer size="16" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14)</Filter>
-    <TextSymbolizer size="14" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <TextSymbolizer size="12" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <TextSymbolizer size="10" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <TextSymbolizer face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-</Style>
-<Layer name="city_labels_z4"
-  maxzoom="50000000"
-  minzoom="25000000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z4</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_labels_z4]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z5" filter-mode="first">
-  <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16)</Filter>
-    <TextSymbolizer size="16" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14)</Filter>
-    <TextSymbolizer size="14" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <TextSymbolizer size="12" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <TextSymbolizer size="10" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <TextSymbolizer face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-</Style>
-<Layer name="city_labels_z5"
-  maxzoom="25000000"
-  minzoom="12500000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z5</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_labels_z5]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z6" filter-mode="first">
-  <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="18" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="16" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 16)</Filter>
-    <TextSymbolizer size="16" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'right')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14) and ([justified] = 'left')</Filter>
-    <TextSymbolizer size="14" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 14)</Filter>
-    <TextSymbolizer size="14" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="12" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer size="10" horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
-    <TextSymbolizer size="12" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <TextSymbolizer size="10" face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <TextSymbolizer face-name="Arial Unicode MS Regular" fill="#000000" vertical-alignment="bottom" halo-radius="2" halo-fill="#ffffff" minimum-distance="0" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-</Style>
-<Layer name="city_labels_z6"
-  maxzoom="12500000"
-  minzoom="6500000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z6</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_labels_z6]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z7" filter-mode="first">
-  <Rule>
-    <Filter>([justified] = 'right') and ([font_size] = 20)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'right') and ([font_size] = 18)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>6500000</MaxScaleDenominator>
-    <MinScaleDenominator>3000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'left') and ([font_size] = 20)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'left') and ([font_size] = 18)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>6500000</MaxScaleDenominator>
-    <MinScaleDenominator>3000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 20)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>6500000</MaxScaleDenominator>
-    <MinScaleDenominator>3000000</MinScaleDenominator>
-    <TextSymbolizer size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
+    <MaxScaleDenominator>2500</MaxScaleDenominator>
+    <Filter>([type] = 'locality')</Filter>
     <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
-</Style>
-<Layer name="city_labels_z7"
-  maxzoom="6500000"
-  minzoom="3000000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z7</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_labels_z7]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z8" filter-mode="first">
   <Rule>
-    <Filter>([justified] = 'right') and ([font_size] = 20)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'locality')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
-    <Filter>([justified] = 'right') and ([font_size] = 18)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <MaxScaleDenominator>12500</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'locality')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'locality')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="10" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>2500</MaxScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>12500</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="10" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'village')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>2500</MaxScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>12500</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'suburb')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>2500</MaxScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>12500</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'hamlet')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>2500</MaxScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>12500</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'neighbourhood')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+</Style>
+<Style name="place-town" filter-mode="first">
+  <Rule>
+    <MaxScaleDenominator>5000</MaxScaleDenominator>
+    <MinScaleDenominator>2500</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="17" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>5000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="16" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>200000</MaxScaleDenominator>
+    <MinScaleDenominator>100000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>400000</MaxScaleDenominator>
+    <MinScaleDenominator>200000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>750000</MaxScaleDenominator>
+    <MinScaleDenominator>400000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>1500000</MaxScaleDenominator>
+    <MinScaleDenominator>750000</MinScaleDenominator>
+    <Filter>([type] = 'town')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="10" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+</Style>
+<Style name="place-city" filter-mode="first">
+  <Rule>
+    <MaxScaleDenominator>25000</MaxScaleDenominator>
+    <MinScaleDenominator>12500</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="17" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>50000</MaxScaleDenominator>
+    <MinScaleDenominator>25000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="16" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>100000</MaxScaleDenominator>
+    <MinScaleDenominator>50000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>200000</MaxScaleDenominator>
+    <MinScaleDenominator>100000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>400000</MaxScaleDenominator>
+    <MinScaleDenominator>200000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>750000</MaxScaleDenominator>
+    <MinScaleDenominator>400000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>1500000</MaxScaleDenominator>
+    <MinScaleDenominator>750000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>3000000</MaxScaleDenominator>
+    <MinScaleDenominator>1500000</MinScaleDenominator>
+    <Filter>([type] = 'city')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+</Style>
+<Style name="place-state" filter-mode="first">
+  <Rule>
+    <MaxScaleDenominator>750000</MaxScaleDenominator>
+    <MinScaleDenominator>400000</MinScaleDenominator>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="20" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>1500000</MaxScaleDenominator>
+    <MinScaleDenominator>750000</MinScaleDenominator>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="18" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+  </Rule>
+  <Rule>
+    <MaxScaleDenominator>3000000</MaxScaleDenominator>
+    <MinScaleDenominator>1500000</MinScaleDenominator>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="16" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>6500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
-    <Filter>([justified] = 'right')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="5" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <MaxScaleDenominator>12500000</MaxScaleDenominator>
+    <MinScaleDenominator>6500000</MinScaleDenominator>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
-    <Filter>([justified] = 'left') and ([font_size] = 20)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'left') and ([font_size] = 18)</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>6500000</MaxScaleDenominator>
-    <MinScaleDenominator>3000000</MinScaleDenominator>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([justified] = 'left')</Filter>
-    <TextSymbolizer horizontal-alignment="middle" dx="-5" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 20)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <Filter>([font_size] = 18)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>6500000</MaxScaleDenominator>
-    <MinScaleDenominator>3000000</MinScaleDenominator>
-    <TextSymbolizer size="12" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <MaxScaleDenominator>25000000</MaxScaleDenominator>
+    <MinScaleDenominator>12500000</MinScaleDenominator>
+    <Filter>([type] = 'state')</Filter>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="10" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
-<Layer name="city_labels_z8"
-  maxzoom="3000000"
-  minzoom="1500000"
+<Layer name="place"
+  status="on"
   srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z8</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_labels_z8]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z9" filter-mode="first">
-  <Rule>
-    <Filter>([font_size] = 20)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-</Style>
-<Layer name="city_labels_z9"
-  maxzoom="1500000"
-  minzoom="750000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z9</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z9]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="city_labels_z10" filter-mode="first">
-  <Rule>
-    <Filter>([font_size] = 20)</Filter>
-    <TextSymbolizer size="18" face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-</Style>
-<Layer name="city_labels_z10"
-  maxzoom="750000"
-  minzoom="100000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>city_labels_z10</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/merged_labels/merged_points_z10]]></Parameter>
-    </Datasource>
-  </Layer>
+  <StyleName>place-state</StyleName>
+  <StyleName>place-city</StyleName>
+  <StyleName>place-town</StyleName>
+  <StyleName>place-small</StyleName>
+  <Datasource>
+    <Parameter name="type">postgis</Parameter>
+    <Parameter name="dbname">gis</Parameter>
+    <Parameter name="extent"><![CDATA[-20037508.34 -20037508.34 20037508.34 20037508.34]]></Parameter>
+    <Parameter name="geometry_field"><![CDATA[way]]></Parameter>
+    <Parameter name="id"><![CDATA[place]]></Parameter>
+    <Parameter name="key_field"><![CDATA[]]></Parameter>
+    <Parameter name="project"><![CDATA[foss4g-2011]]></Parameter>
+    <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
+    <Parameter name="table"><![CDATA[( SELECT way, place AS type, name, z_order, population
+  FROM planet_osm_point
+  WHERE place in ('state', 'city', 'town', 'village', 'hamlet', 'suburb', 'neighbourhood', 'locality')
+  ORDER BY population DESC NULLS LAST
+  ) AS data]]></Parameter>
+    <Parameter name="type"><![CDATA[postgis]]></Parameter>
+  </Datasource>
+</Layer>
 
 <Style name="water-bodies-labels-high" filter-mode="first">
   <Rule>
@@ -8591,7 +8351,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_110m_geography_marine_polys]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_110m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8704,7 +8464,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_50m_geography_marine_polys]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_50m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -8745,7 +8505,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/natural_earth/ne_10m_geography_marine_polys]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/natural_earth/ne_10m_geography_marine_polys]]></Parameter>
        <Parameter name="encoding"><![CDATA[ISO-8859-1]]></Parameter>
     </Datasource>
   </Layer>
@@ -10038,7 +9798,7 @@
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <Filter>([railway] = 'station')</Filter>
-    <ShieldSymbolizer face-name="Arial Unicode MS Bold" fill="#ffffff" size="12" file="symbols/toner-subway_shield_small.svg" ><![CDATA[[label]]]></ShieldSymbolizer>
+    <ShieldSymbolizer face-name="Arial Unicode MS Bold" fill="#ffffff" size="12" file="/home/ubuntu/mapnik-styles/symbols/toner-subway_shield_small.svg" ><![CDATA[[label]]]></ShieldSymbolizer>
   </Rule>
 </Style>
 <Layer name="poi_station_labels"
@@ -10085,7 +9845,7 @@
        <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[shapes/continents_900913]]></Parameter>
+       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/continents_900913]]></Parameter>
     </Datasource>
   </Layer>
 
