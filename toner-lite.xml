@@ -9734,21 +9734,21 @@
 <Style name="minor_road_labels" filter-mode="first">
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
-    <TextSymbolizer size="12" spacing="400" halo-radius="2" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" spacing="400" halo-radius="2" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
-    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
-    <TextSymbolizer dy="10" spacing="124" size="10" halo-radius="2" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="10" spacing="124" size="10" halo-radius="2" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>12500</MinScaleDenominator>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="minor_road_labels"
