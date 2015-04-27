@@ -7464,43 +7464,43 @@
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="17" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="18" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="16" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="17" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="16" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="15" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="14" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="13" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>1500000</MaxScaleDenominator>
     <MinScaleDenominator>750000</MinScaleDenominator>
     <Filter>([type] = 'city')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="11" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Bold" fill="#000000" halo-radius="2" halo-fill="#ffffff" size="12" minimum-distance="1" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
