@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Map[]>
-<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over" background-color="#d9d9d9" font-directory="/home/ubuntu/mapnik-styles/fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
+<Map srs="+proj=latlong+datum=WGS84" background-color="#d9d9d9" font-directory="/home/ubuntu/mapnik-styles/fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
 
 <Parameters>
   <Parameter name="name"><![CDATA[Toner]]></Parameter>
@@ -1286,10 +1286,6 @@
   </Layer>
 
 <Style name="admin1-lines-osm" filter-mode="first">
-  <Rule>
-    <Filter>([admin_level] = 4)</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#f5f500" stroke-dasharray="1, 5" stroke-linecap="round" />
-  </Rule>
   <Rule>
     <LineSymbolizer stroke-width="2" stroke="#8c8c8c" stroke-dasharray="1, 5" stroke-linecap="round" />
   </Rule>
@@ -9853,4 +9849,35 @@
     </Datasource>
   </Layer>
 
+<Style name="admin_test" filter-mode="first">
+  <Rule>
+    <LineSymbolizer stroke-opacity="1" stroke="#f5f500" stroke-width="0.5" />
+  </Rule>
+</Style>
+<Layer name="admin_test"
+  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+    <StyleName>admin_test</StyleName>
+    <Datasource>
+       <Parameter name="type"><![CDATA[postgis]]></Parameter>
+       <Parameter name="dbname"><![CDATA[imposm]]></Parameter>
+       <Parameter name="host"><![CDATA[localhost]]></Parameter>
+       <Parameter name="user"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="password"><![CDATA[ubuntu]]></Parameter>
+       <Parameter name="port"><![CDATA[5432]]></Parameter>
+       <Parameter name="geometry_field"><![CDATA[geometry]]></Parameter>
+       <Parameter name="srid"><![CDATA[3857]]></Parameter>
+       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
+       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
+       <Parameter name="table"><![CDATA[(
+  SELECT
+    geometry,
+    admin_level,
+    name
+  FROM osm_admin
+  WHERE geometry && !bbox!
+    AND type = 'administrative'
+    AND admin_level = '4'
+  ) AS _]]></Parameter>
+    </Datasource>
+  </Layer>
 </Map>
