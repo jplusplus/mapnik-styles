@@ -9227,454 +9227,454 @@
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="12" spacing="400" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" spacing="400" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer spacing="124" size="13" halo-radius="2" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer spacing="124" size="13" halo-radius="2" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="11" size="13" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="11" size="13" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer size="12" spacing="400" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" spacing="400" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="13" spacing="180" size="12" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer spacing="124" size="13" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer spacing="124" size="13" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer dy="11" size="13" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="11" size="13" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'tertiary')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" spacing="300" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" spacing="300" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="14" spacing="180" size="14" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" spacing="180" size="14" halo-radius="2" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer spacing="124" size="13" halo-radius="2" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer spacing="124" size="13" halo-radius="2" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="11" size="13" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="11" size="13" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" halo-radius="1.5" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" halo-radius="1.5" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'secondary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer size="14" spacing="300" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" spacing="300" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer dy="14" spacing="180" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" spacing="180" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer spacing="124" size="13" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer spacing="124" size="13" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer dy="11" size="13" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="11" size="13" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer dy="7" size="12" halo-radius="1.5" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" halo-radius="1.5" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'secondary')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="14" size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="14" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="16" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="16" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="16" size="16" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="16" size="16" fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'trunk') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer size="16" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="16" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer dy="16" size="16" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="16" size="16" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer size="14" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'trunk')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer fill="#777777" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer fill="#777777" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
-    <TextSymbolizer minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
-    <TextSymbolizer minimum-distance="12" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
-    <TextSymbolizer minimum-distance="12" dy="13" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
-    <TextSymbolizer minimum-distance="10" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
-    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
-    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
-    <TextSymbolizer face-name="Arial Unicode MS Bold" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="100" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="major_road_labels"
