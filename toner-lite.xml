@@ -8515,208 +8515,208 @@
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="green-areas-labels-high"
@@ -8752,208 +8752,208 @@
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="green-areas-labels-med"
@@ -8990,208 +8990,208 @@
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>750000</MaxScaleDenominator>
     <MinScaleDenominator>400000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 100000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>400000</MaxScaleDenominator>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer spacing="200" wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="50" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" size="12" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 25000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="12" spacing="200" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 5000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 2000000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 200000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="12" spacing="100" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="12" wrap-width="70" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 50000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <Filter>([area] &gt; 10000)</Filter>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
-    <TextSymbolizer size="13" spacing="100" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" wrap-width="40" face-name="Arial Unicode MS Italic" placement="interior" max-char-angle-delta="30" halo-radius="2" fill="#000000" halo-fill="#ffffff" line-spacing="-1" minimum-distance="10" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="green-areas-labels-low"
@@ -9411,94 +9411,94 @@
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="14" size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" size="14" fill="#777777" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" fill="#777777" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" fill="#777777" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'primary') and ([is_tunnel] = 1)</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>5000</MaxScaleDenominator>
     <MinScaleDenominator>2500</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="14" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="14" size="14" halo-radius="2" minimum-distance="12" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500</MaxScaleDenominator>
     <MinScaleDenominator>5000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="14" halo-radius="2" minimum-distance="12" dy="13" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>25000</MaxScaleDenominator>
     <MinScaleDenominator>12500</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="12" size="15" minimum-distance="10" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>50000</MaxScaleDenominator>
     <MinScaleDenominator>25000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="9" size="14" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>100000</MaxScaleDenominator>
     <MinScaleDenominator>50000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer size="13" dy="8" minimum-distance="5" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>200000</MaxScaleDenominator>
     <MinScaleDenominator>100000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer dy="7" size="12" minimum-distance="4" face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MinScaleDenominator>200000</MinScaleDenominator>
     <Filter>([highway] = 'primary')</Filter>
-    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" spacing="200" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
+    <TextSymbolizer face-name="Arial Unicode MS Regular" placement="line" max-char-angle-delta="30" fill="#000000" halo-radius="1" halo-fill="#ffffff" avoid-edges="true" ><![CDATA[[name]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <MaxScaleDenominator>2500</MaxScaleDenominator>
