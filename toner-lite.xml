@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Map[]>
-<Map srs="+proj=latlong+datum=WGS84" background-color="#d9d9d9" font-directory="/home/ubuntu/mapnik-styles/fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over" background-color="#d9d9d9" font-directory="/home/ubuntu/mapnik-styles/fonts/" maximum-extent="-20037508.34,-20037508.34,20037508.34,20037508.34">
 
 <Parameters>
   <Parameter name="name"><![CDATA[Toner]]></Parameter>
@@ -87,30 +87,6 @@
        <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
        <Parameter name="srs"><![CDATA[+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs]]></Parameter>
        <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/osm/land_polygons]]></Parameter>
-    </Datasource>
-  </Layer>
-
-<Style name="nullisland" filter-mode="first">
-  <Rule>
-    <MaxScaleDenominator>2500</MaxScaleDenominator>
-    <PolygonSymbolizer fill="#ffffff" />
-    <TextSymbolizer face-name="Arial Unicode MS Bold" wrap-width="80" size="14" fill="#000000" halo-radius="2" halo-fill="#ffffff" ><![CDATA[[name]]]></TextSymbolizer>
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>2500</MinScaleDenominator>
-    <PolygonSymbolizer fill="#ffffff" />
-  </Rule>
-</Style>
-<Layer name="nullisland"
-  maxzoom="750000"
-  srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>nullisland</StyleName>
-    <Datasource>
-       <Parameter name="type"><![CDATA[shape]]></Parameter>
-       <Parameter name="estimate_extent"><![CDATA[false]]></Parameter>
-       <Parameter name="extent"><![CDATA[-20037508.34,-20037508.34,20037508.34,20037508.34]]></Parameter>
-       <Parameter name="srs"><![CDATA[+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over]]></Parameter>
-       <Parameter name="file"><![CDATA[/home/ubuntu/mapnik-styles/shapes/nullisland]]></Parameter>
     </Datasource>
   </Layer>
 
@@ -9851,7 +9827,7 @@
 
 <Style name="admin_test" filter-mode="first">
   <Rule>
-    <LineSymbolizer stroke-opacity="1" stroke="#f5f500" stroke-width="0.5" />
+    <LineSymbolizer stroke-opacity="1" stroke="#f5f500" stroke-width="5" />
   </Rule>
 </Style>
 <Layer name="admin_test"
@@ -9876,7 +9852,7 @@
   FROM osm_admin
   WHERE geometry && !bbox!
     AND type = 'administrative'
-    AND admin_level = '4'
+    AND admin_level = '7'
   ) AS _]]></Parameter>
     </Datasource>
   </Layer>
