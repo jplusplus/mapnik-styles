@@ -36,3 +36,9 @@ To fetch all OSM data and extract it while downloading (quickest):
 
     wget -O - ftp://ftp5.gwdg.de/pub/misc/openstreetmap/planet.openstreetmap.org/planet/planet-latest.osm.bz2 | bzcat >planet_latest.osm
 
+##Scripts
+Use `scripts/render.sh` to batch create maps from a set of bbox'es. Each line in the bbox file should look like this:
+
+    17.48112 59.6994126 17.80112 60.0194126 Uppsala
+
+The script will then create an optimized png file called $width/Uppsala.png, covering this area.
